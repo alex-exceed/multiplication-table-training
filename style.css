@@ -1,0 +1,35 @@
+.input-group  {
+	width: 30px;
+}
+
+#checkit {
+	display: none;
+}
+
+.right {
+	color: green;
+}
+
+.wrong {
+	text-decoration: line-through;
+}
+
+li {
+	list-style-type: none;
+}
+
+.smenter {
+	width: 30px;
+}
+
+#tasks {
+	margin-top: 20px;
+}
+
+#result {
+	margin-top: 20px;
+}
+
+#start {
+	margin-top: 20px;
+}
