@@ -6,12 +6,12 @@
 	display: none;
 }
 
-.right {
-	color: green;
+.green {
+	background-color: green;
 }
 
-.wrong {
-	text-decoration: line-through;
+.red {
+	background-color: red;
 }
 
 li {
@@ -23,7 +23,9 @@ li {
 }
 
 #tasks {
-	margin-top: 20px;
+	margin-top: 365px;
+	/*width: 250px;*/
+
 }
 
 #result {
@@ -31,5 +33,31 @@ li {
 }
 
 #start {
-	margin-top: 20px;
+	margin-top: 365px;
+
 }
+
+.numbers {
+	width: 74px;
+}
+
+ul {
+	width: 500px;
+}
+
+#answer {
+	margin-left: 20px;
+	width: 50px;
+}
+
+.wid {
+	/*width: 25%;*/
+	float: left;
+}
+
+#next {
+	margin-left: 20px;
+}
+
+
+
